@@ -1,6 +1,10 @@
 # Freshman-Year-Project-House-Price-Prediction
 This project was written in C by @abalioglu, @skoleli and @bestesengul.
 
+After compiling, program can be called as:
+
+[ ./main  <<csv_file_toCollectInfo>>  <<csv_file_toGuess>> ]
+
 
 ## Folders
 ### data folder
